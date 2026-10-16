@@ -1,9 +1,4 @@
 
-import streamlit as st
-from gtts import gTTS
-import os
-import tempfile
-
 # Configuración de la página en Streamlit
 st.set_page_config(
     page_title="Chatbot Colectivo - Grupo de Clase",
